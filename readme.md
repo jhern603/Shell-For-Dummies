@@ -1,6 +1,6 @@
 # How To Basic: Shell Scripting
 
-Flags: [[Useful flags]]
+This repo is mainly used by me for notetaking as I learn the basics of Shell scripting. It is publically available in case anyone finds it, since it can be handy for those who already have a basic foundation in programming.
 
 ## Basics
 Using a wildcard or file extensions in the `echo` command will work similarly as `ls` or any other fs command.
